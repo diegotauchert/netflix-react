@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/netflix-react/static/css/main.bf3f5b19.chunk.css",
-    "main.js": "/netflix-react/static/js/main.b8c751a0.chunk.js",
-    "main.js.map": "/netflix-react/static/js/main.b8c751a0.chunk.js.map",
+    "main.js": "/netflix-react/static/js/main.f5d4db64.chunk.js",
+    "main.js.map": "/netflix-react/static/js/main.f5d4db64.chunk.js.map",
     "runtime-main.js": "/netflix-react/static/js/runtime-main.7085d616.js",
     "runtime-main.js.map": "/netflix-react/static/js/runtime-main.7085d616.js.map",
-    "static/js/2.f2bd46d2.chunk.js": "/netflix-react/static/js/2.f2bd46d2.chunk.js",
-    "static/js/2.f2bd46d2.chunk.js.map": "/netflix-react/static/js/2.f2bd46d2.chunk.js.map",
+    "static/js/2.37f6abc7.chunk.js": "/netflix-react/static/js/2.37f6abc7.chunk.js",
+    "static/js/2.37f6abc7.chunk.js.map": "/netflix-react/static/js/2.37f6abc7.chunk.js.map",
     "index.html": "/netflix-react/index.html",
-    "precache-manifest.97da3274dea197fbb23700c93cd54156.js": "/netflix-react/precache-manifest.97da3274dea197fbb23700c93cd54156.js",
+    "precache-manifest.cb7c806ca0da6821aaadd2e3cd8b1e3e.js": "/netflix-react/precache-manifest.cb7c806ca0da6821aaadd2e3cd8b1e3e.js",
     "service-worker.js": "/netflix-react/service-worker.js",
     "static/css/main.bf3f5b19.chunk.css.map": "/netflix-react/static/css/main.bf3f5b19.chunk.css.map",
-    "static/js/2.f2bd46d2.chunk.js.LICENSE.txt": "/netflix-react/static/js/2.f2bd46d2.chunk.js.LICENSE.txt"
+    "static/js/2.37f6abc7.chunk.js.LICENSE.txt": "/netflix-react/static/js/2.37f6abc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7085d616.js",
-    "static/js/2.f2bd46d2.chunk.js",
+    "static/js/2.37f6abc7.chunk.js",
     "static/css/main.bf3f5b19.chunk.css",
-    "static/js/main.b8c751a0.chunk.js"
+    "static/js/main.f5d4db64.chunk.js"
   ]
 }
