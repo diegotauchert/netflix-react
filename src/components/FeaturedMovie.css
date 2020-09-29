@@ -1,5 +1,6 @@
 .featured{
   height:100vh;
+  transition: all ease .2s;
 }
 .featured--vertical{
   width: inherit;
